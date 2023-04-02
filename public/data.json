@@ -1,0 +1,24 @@
+[
+    { 
+      "id": "1", 
+      "name": "Basic Membership", 
+      "price": 20, 
+      "shortFeatures": ["Cardio", "Weights", "Locker rooms"],
+      "features": ["Access to cardio equipment", "Weightlifting area", "Locker rooms"]
+    },
+    {
+      "id": "2",
+      "name": "Standard Membership",
+      "price": 35,
+      "shortFeatures": ["All equipment", "Classes", "Sauna", "Towels"],
+      "features": ["Access to all equipment", "Group fitness classes", "Sauna", "Towel service"]
+    },
+    {
+      "id": "3",
+      "name": "Premium Membership",
+      "price": 50,
+      "shortFeatures": ["All equipment", "Personal training", "Massage", "Juice bar"],
+      "features": ["Access to all equipment", "Personal training sessions", "Massage therapy", "Juice bar"]
+    }
+  ]
+  
